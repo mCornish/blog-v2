@@ -1,5 +1,5 @@
 backend:
-  name: github
+  name: git-gateway
   repo: mCornish/blog-v2
   branch: master
   commit_messages:
